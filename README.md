@@ -15,4 +15,5 @@ Files that pertain to player features:
 
 2. Team based machine learning: analyzing team performance from the 2024-2025 season.
 
-   Files that pertain to team features:
+Files that pertain to team features:
+  - 
