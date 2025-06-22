@@ -17,7 +17,7 @@ Files that pertain to player features:
 
 Files that pertain to team features:
   - possessionCluster.py clusters teams by team-level possession performance
-      - clustering_possession_data.xlsx contains the data that the models are run on.
+      - poss_clustering_data.xlsx contains the data that the models are run on.
   - home_roadClustering.py clusters teams by team-level scoring performance
     - clustering_scoring_data.xlsx contains the data that the models are run on.
   
