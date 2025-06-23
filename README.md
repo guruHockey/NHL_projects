@@ -5,7 +5,7 @@ This repository contains predictive modeling that pertains to the NHL.
 
 Files include:
 
-1. Player performance data modeling: predicting plater performance with at least 5 years NHL experience as of the 2024-2025 season.
+1. Player performance data modeling: predicting player performance with at least 5 years NHL experience as of the 2024-2025 season.
 
 Files that pertain to player features:
   - playerpointsLinear_3.py is a linear regression model that predicts player performance of a chosen variable and uses ElasticNet methodology
