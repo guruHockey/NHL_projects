@@ -21,4 +21,6 @@ Files that pertain to team features:
   - home_roadClustering.py clusters teams by team-level scoring performance
     - clustering_scoring_data.xlsx contains the data that the models are run on.
   
-
+3. Files that pertain to both sets of programming:
+   - NHL_API_calls.py are the API calls to NHL.com's public facing API to gather the data used.
+   - requirements.txt is a document that provides the packages and versions needed to run the programming.  User can bring this file locally and install it by running "pip install -r requirements.txt" in terminal.
